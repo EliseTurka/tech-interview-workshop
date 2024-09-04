@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* Elise Turka eliset
 
-* **Your partner's name and PID:**
+* Brice Harris briceh
 
-* **Link to selected coding challenge:**
+* (https://leetcode.com/problems/can-place-flowers/?envType=study-plan-v2&envId=leetcode-75)
 
-* **Summary of partner's interview feedback:**
+* Completed the assignment; code could have been more efficient but other than that, performed well under pressure.
